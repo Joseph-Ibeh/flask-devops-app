@@ -150,7 +150,7 @@ If you don't have these installed, refer to their respective official websites f
     git branch -M main
     git push -u origin main
     ```
-
+![remote add](https://github.com/Joseph-Ibeh/flask-devops-app/blob/main/Assets/git%20remote%20add-%20branch-push%209.png)
 ---
 
 ## ✅ Step 4: Implement CI/CD with GitHub Actions
