@@ -33,7 +33,6 @@ If you don't have these installed, refer to their respective official websites f
     ```
 ![mkdir & cd](https://github.com/Joseph-Ibeh/flask-devops-app/blob/main/Assets/mkdir_cd%201.png)
 
-![mkdir & cd](https://github.com/Joseph-Ibeh/flask-devops-app/blob/main/Assets/venv_2_contd.png)
 
 2. **Set up a Python virtual environment**:
     ```bash
@@ -51,7 +50,7 @@ If you don't have these installed, refer to their respective official websites f
     ```
 ![install flask](https://github.com/Joseph-Ibeh/flask-devops-app/blob/main/Assets/venv_install_flask_2.png)
 
-![ckeck if it running](https://github.com/Joseph-Ibeh/flask-devops-app/blob/main/Assets/venv_2_contd.png)
+![mkdir & cd](https://github.com/Joseph-Ibeh/flask-devops-app/blob/main/Assets/venv_2_contd.png)
 
 5. **Create the `app.py` file**:
     ```python
