@@ -1,0 +1,1 @@
+This repository contains a simple Flask application containerized with Docker and set up with CI/CD using GitHub Actions. The app is deployed and the Docker image is pushed to Docker Hub whenever changes are made to the main branch.
