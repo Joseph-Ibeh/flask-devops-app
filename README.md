@@ -1,6 +1,6 @@
 # Building and Automating the Deployment of a Flask Application with Docker, GitHub, and CI/CD
 
-## 📚 Introduction
+## Introduction
 
 This project demonstrates how to build, containerize, and deploy a simple Flask application with Docker, using GitHub for version control and GitHub Actions for Continuous Integration/Continuous Deployment (CI/CD). You will learn how to:
 
@@ -122,7 +122,7 @@ If you don't have these installed, refer to their respective official websites f
 
 ## ✅ Step 3: Set Up Version Control
 
-### 🧰 Tools: Git + GitHub
+### Tools: Git + GitHub
 
 1. **Initialize a Git repository**:
     ```bash
@@ -155,7 +155,7 @@ If you don't have these installed, refer to their respective official websites f
 
 ## ✅ Step 4: Implement CI/CD with GitHub Actions
 
-### 🧰 Tools: GitHub Actions, Docker Hub
+### Tools: GitHub Actions, Docker Hub
 
 1. **Create a `.github/workflows/docker-publish.yml` file**:
     ```bash
@@ -217,7 +217,7 @@ GitHub Actions will now automatically build your Docker image and push it to Doc
 
 ---
 
-## 🚀 Final Output
+##  Final Output
 
 - ✅ A live Flask app running inside a Docker container.
 - ✅ The source code is hosted on GitHub.
@@ -226,13 +226,13 @@ GitHub Actions will now automatically build your Docker image and push it to Doc
 ![Triggered](https://github.com/Joseph-Ibeh/flask-devops-app/blob/main/Assets/build%20and%20push%20image%20successfuly%2012.png)
 ---
 
-## 🎯 Conclusion
+##  Conclusion
 
 Congratulations! You've successfully created a simple Flask app, containerized it with Docker, set up version control with Git and GitHub, and implemented CI/CD with GitHub Actions. This project is a foundational step in building scalable and automated systems in DevOps.
 
 ---
 
-## 🛠️ Troubleshooting
+## 🛠 Troubleshooting
 
 - **If Docker is not running**: Ensure Docker Desktop is open and running.
 - **If you encounter permission issues with GitHub Actions**: Double-check your Docker Hub credentials in GitHub Secrets.
