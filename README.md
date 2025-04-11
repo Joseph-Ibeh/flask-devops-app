@@ -1,4 +1,4 @@
-# DevOps Project 1: Flask Application with Docker, GitHub, and CI/CD
+# End-to-End Flask Application Development with Docker, GitHub, and CI/CD Automation
 
 ## 📚 Introduction
 
