@@ -232,7 +232,7 @@ Congratulations! You've successfully created a simple Flask app, containerized i
 
 ---
 
-## 🛠 Troubleshooting
+## Troubleshooting
 
 - **If Docker is not running**: Ensure Docker Desktop is open and running.
 - **If you encounter permission issues with GitHub Actions**: Double-check your Docker Hub credentials in GitHub Secrets.
