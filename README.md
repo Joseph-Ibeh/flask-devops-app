@@ -1,4 +1,4 @@
-# End-to-End Flask Application Development with Docker, GitHub, and CI/CD Automation
+# Building and Automating the Deployment of a Flask Application with Docker, GitHub, and CI/CD
 
 ## 📚 Introduction
 
